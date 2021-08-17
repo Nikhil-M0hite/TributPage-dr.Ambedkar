@@ -1,0 +1,232 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+body{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    background-color: rgba(230, 217, 217, 0.671);
+}
+#title{
+    /* display: flex; */
+    align-items: center;
+}
+#title h1{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    padding-top: 3rem;
+}
+#title p{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    padding-top: .5rem;
+    padding-bottom: 1rem;
+    font-weight: bold;
+}
+#img-div {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+#img-div2 {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+#img-div3 {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+#img-div4 {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+#img-div5 {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+#img-div6 {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+#img-div7 {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    text-align: center;
+}
+ 
+
+
+   
+   p{
+    /* text-align: center; */
+    font-weight: bold;
+    
+ }
+#tribute-info{
+   display: block;
+    padding: 2rem;
+    text-align: center;
+   
+}
+#ul1 {
+    /* text-align: center; */
+    /* margin: auto;
+    width: 50%; */
+    /* display: block; */
+    padding: 2rem;
+
+    
+}#ul1 li{
+    padding: 1rem;
+
+}
+.lh{
+    /* line-height: 1.6; */
+}
+ #q{
+    
+    text-align: center;
+    display: block;
+    padding: 2rem;
+    margin: auto;
+    width: 50%;
+}
+#q cite{
+    display: block;
+    padding: 2rem;
+}
+#ul1{
+    font-size: 20px;
+}
+.photo {
+    text-align: center;
+    /* background-color: blue; */
+    
+}
+
+
+@media (max-width:500px){
+    #title h1{
+        /* display: flex;
+        justify-content: center; */
+        text-align: center;
+        padding-top: 1rem;
+        
+    }
+     p{
+        text-align: center;
+    }
+     #img-div {
+        /* background-color: #fff; */
+        background-color:  rgba(230, 217, 217, 0.671);
+
+        margin-left: 0px;
+        margin-right: 0px;
+    } 
+    #image{
+    
+        
+        width: 100%;
+       
+     }
+     #image2{
+         
+         width: 100%;
+     }
+     #image3{
+        
+        width: 100%;
+    }
+    #image4{
+        
+        width: 100%;
+    }
+    #image5{
+       
+        width: 100%;
+    }
+    #image6{
+        /* margin-left: 0rem; */
+        width: 100%;
+    }
+    #image7{
+        /* margin-left: 0rem; */
+        width: 100%;
+    }
+     #img-div2{
+        /* background-color: #fff; */
+       background-color:  rgba(230, 217, 217, 0.671);
+        margin-left: 0px;
+        margin-right: 0px;
+     } 
+      #img-div3{
+        /* background-color: #fff; */
+        background-color:  rgba(230, 217, 217, 0.671);
+
+        margin-left: 0px;
+        margin-right: 0px;
+     }
+     #img-div4{
+        /* background-color: #fff; */
+        background-color:  rgba(230, 217, 217, 0.671);
+
+        margin-left: 10px;
+        margin-right: 10px;
+     }
+     #img-div5{
+        /* background-color: #fff; */
+        background-color:  rgba(230, 217, 217, 0.671);
+
+        margin-left: 0px;
+        margin-right: 0px;
+     }
+     #img-div6{
+        /* background-color: #fff; */
+        background-color:  rgba(230, 217, 217, 0.671);
+
+        margin-left: 0px;
+        margin-right: 0px;
+     }
+     #img-div7{
+        /* background-color: #fff; */
+        background-color:  rgba(230, 217, 217, 0.671);
+
+        margin-left: 0px;
+        margin-right: 0px;
+     } 
+    .photo{
+        text-align: center;
+        
+    }
+     
+     #title p{
+        /* display: flex;
+        justify-content: center; */
+        text-align: center;
+        padding-top: .5rem;
+        padding-bottom: 1rem;
+        font-size: 18px;
+    }
+   
+}
